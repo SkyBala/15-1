@@ -23,7 +23,12 @@
 // console.log(arr)
 
 // const name = prompt (  "как тебя зовут")
-// console.log("hello"+name)
+//
+
+
+
+
+
 //
 // const first_nuber = prompt ( "первоу число")
 // const last_number = prompt("второе число")
