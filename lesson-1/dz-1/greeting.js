@@ -1,15 +1,14 @@
  const name = prompt (  "как тебя зовут")
- console.log("hello" + name)
+ console.log("hello" +"-"+ name)
 
  const s1 = ["здесь текст",10,"доп элемент"]
  const s2 = ["здесь нету текста",10]
 
-console.log(s1.length < s2.length)
+console.log(s1.length > s2.length)
 
 let varr1 =['типо текст',6]
 let varr2 = varr1
- console.log( varr2 === varr1)
-
+ console.log( varr2 == varr1)
 
 
  const svetofor = prompt(" выбери цвет (green,yellow,red)")
@@ -23,6 +22,3 @@ let varr2 = varr1
      default: alert("неправильно попытайся еще раз")
          break;
  }
-
-    const arr2 = [[[[[[[[[[[[[[[5]]]]]]]]]]]]]]]
-    console.log(arr2[0.15])
