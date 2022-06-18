@@ -1,8 +1,6 @@
 function sayHello() {
     console.log("hello")
 }
-
-
 function getFullName(user,age,user2) {
     if (age < 18){
         console.log("close")
